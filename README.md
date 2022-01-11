@@ -1,0 +1,1 @@
+# depositthe program, as a result of which a list of deposit values will be formed - the accumulated funds for the year of deposit in each of the banks. At the entrance of the program, the amount of money is entered from the keyboard, which the person plans to put at interest.
